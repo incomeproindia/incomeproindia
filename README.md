@@ -1,16 +1,16 @@
-# Hello World, I'm Devansh Verma 🚀
+# Hello World, I'm Bravo 🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=10B981&width=550&lines=Cloud-Native+%26+DevOps+Engineer;Kubernetes+%26+GitOps+Evangelist;Zero-Downtime+Deployment+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=10B981&width=550&lines=Cloud-Native+DevOps+Engineer;Kubernetes+%26+GitOps+Evangelist;Zero-Downtime+Deployment+Architect)](https://git.io/typing-svg)
 
 ---
 
-### ☁️ What I Do
-I engineer resilient, secure, and auto-scaling cloud infrastructure. My focus is automating developer workflows with modern GitOps and bulletproof CI/CD pipelines.
+### ☁️ About Bravo Node
+Engineering resilient, secure, and auto-scaling cloud infrastructure. Automating developer workflows with modern GitOps and bulletproof CI/CD pipelines.
 
 - ⚙️ Specializing in **Kubernetes clusters, Service Meshes (Istio), and Infrastructure as Code**.
 - 🛡️ Championing **Shift-Left Security (DevSecOps)**, policy enforcement, and observability.
-- 🔭 Working on multi-cloud orchestration across AWS, GCP, and self-hosted bare metal.
-- ⚡ Passionate about open-source developer tooling and continuous delivery automation.
+- 🔭 Multi-cloud orchestration across AWS, GCP, and self-hosted bare metal.
+- ⚡ Open-source developer tooling and continuous delivery automation.
 
 ---
 
@@ -37,7 +37,7 @@ I engineer resilient, secure, and auto-scaling cloud infrastructure. My focus is
 
 ---
 
-### 📊 GitOps & Contribution Snapshot
+### 📊 GitOps & Cloud Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=incomeproindia&show_icons=true&theme=nord&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=incomeproindia&layout=compact&theme=nord&hide_border=true" width="48%" />
